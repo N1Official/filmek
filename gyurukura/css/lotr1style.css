@@ -1,0 +1,76 @@
+body{
+    text-align: justify;
+}
+/* .szereplők{
+    position: absolute;
+}
+#Boromir{
+    margin-top: 34px;
+    left: 71.9%;
+    height: 487px;
+}
+#Gimli{
+    height: 330px;
+    left: 72.7%;
+    margin-top: 190px;
+}
+#Pippin{
+    /*display: none;
+    margin-top: 251px;
+    height: 270px;
+    left: 60.5%;
+}
+#Legolas{
+    margin-top: 34px;
+    height: 487px;
+    left: 46.3%;
+}
+#Trufa{
+    margin-top: 251px;
+    height: 270px;
+    left: 46.6%;
+}
+#Frodo{
+    margin-top: 256px;
+    height: 265px;
+    left: 37.6%;
+}
+#Gandalf{
+    margin-top: 47px;
+    height: 327px;
+    left: 24.95%;
+}
+#Aragorn{
+    margin-top: 0px;
+    height: 521px;
+    left: 6.4%;
+}
+#Samu{
+    margin-top: 256px;
+    height: 265px;
+    left: 22.4%;
+} */
+.kozepre{
+    text-align: center;
+}
+#foszereplok{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+#eggyuru{
+    height: 100px;
+}
+h1{
+    text-align: center;
+}
+.kozep{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.demonos{
+    max-height: 250px;
+}
+img.float-right{
+    margin: 5px;
+}

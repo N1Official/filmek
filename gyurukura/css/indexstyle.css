@@ -1,0 +1,14 @@
+.kozepre{
+    text-align: center;
+}
+.kozepkozep{
+    vertical-align: middle !important;
+    text-align: center;
+}
+.parallax-window {
+    min-height: 75vh;
+    background: transparent;
+}
+.img-fluid{
+    min-width: 250px !important;
+}
